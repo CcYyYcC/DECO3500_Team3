@@ -12,4 +12,4 @@ This folder contains interview transcripts collected by the DECO3500 Team 3 memb
 
 ---
 
-[← Back to DECO3500 Team 3 Home](../README%202.md)
+[← Back to DECO3500 Team 3 Home](../README.md)
