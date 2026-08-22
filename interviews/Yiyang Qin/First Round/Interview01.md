@@ -32,3 +32,6 @@
 
 **Interviewee:** I also like survival and crafting games. I realised that part of the reason is similar to FPS games: if I feel that I am good at something, I enjoy it. For example, if I build something and think it looks better than what other people make, that gives me satisfaction. If I feel I am bad at something, I lose interest much more quickly.
 
+---
+
+[← Back to Interviews Home](../../../README.md) | [Next Interview →](./Interview02.md)

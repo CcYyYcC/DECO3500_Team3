@@ -67,3 +67,7 @@
 **Interviewer:** Do you have any broader thoughts about gaming and why some people may become highly dependent on it?
 
 **Interviewee:** I do not think games themselves are bad. But if we are talking specifically about gaming addiction, one thing I think about is economic accessibility. Games and electronic entertainment are among the cheapest and most accessible forms of leisure. People with fewer financial resources may have fewer alternative forms of entertainment available to them, so games can become a very important low-cost way to relax. That is one reason I think economic circumstances may be relevant when discussing gaming addiction.
+
+---
+
+[← Back to Interviews Home](../../../README.md)

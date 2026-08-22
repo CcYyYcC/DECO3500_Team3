@@ -47,3 +47,7 @@
 **Interviewer:** What about someone who does not particularly want to play today, but logs in every day because a long-term game requires daily tasks?
 
 **Interviewee:** I can understand that too. If they have a long-term goal in the game, then doing some repetitive daily activity may simply be the cost of achieving that goal. It may not be enjoyable every single day, but if the final result gives them enjoyment and it does not significantly interfere with normal life, I do not necessarily think it is a serious problem.
+
+---
+
+[← Back to Interviews Home](../../../README.md) | [Next Interview →](./Interview04.md)

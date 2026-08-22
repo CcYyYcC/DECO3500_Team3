@@ -51,3 +51,7 @@
 **Interviewer:** What about daily tasks and long-term goals in online games, where players may not want to log in today but feel that they need to?
 
 **Interviewee:** I think that can become unhealthy. Online games need active users, so developers use daily tasks, weekly tasks, stamina systems, and expiring resources to encourage players to return. In that sense, the system is using players' time and attention for commercial reasons. At the same time, long-term goals are complicated. Some people genuinely enjoy the process of persistence itself. They may enjoy feeling that they are working toward something difficult. So I do not think every repetitive long-term goal is automatically bad. The problem becomes more obvious when the requirement is deliberately excessive or when players feel pressured to participate even though the activity itself gives them very little value.
+
+---
+
+[← Back to Interviews Home](../../../README.md) | [Next Interview →](./Interview05.md)

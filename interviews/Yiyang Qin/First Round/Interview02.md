@@ -39,3 +39,7 @@
 **Interviewer:** How do you see the relationship between FPS games and gacha games in terms of what keeps players engaged?
 
 **Interviewee:** They are quite different. FPS games rely more on competitiveness, uncertainty, skill, and the desire to recover from a loss. Gacha games are more about characters, stories, progression, and long-term habits. Daily tasks are especially important because they encourage players to return regularly, even when they are not actively thinking, "I really want to play this game today."
+
+---
+
+[← Back to Interviews Home](../../../README.md) | [Next Interview →](./Interview03.md)
