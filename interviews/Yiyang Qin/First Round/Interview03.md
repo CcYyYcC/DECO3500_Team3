@@ -1,4 +1,3 @@
-```md
 # Interview 3
 
 - **Topic:** Casual Gaming, Social Interaction, Leisure Choices, and Views on Gaming Addiction
@@ -168,7 +167,6 @@ For example, maybe they want to save enough resources to get a character later. 
 **Interviewer:** So for you, gaming addiction cannot be judged only by playtime, and it also cannot necessarily be judged only by whether every moment of play is enjoyable?
 
 **Interviewee:** Yes. I think you have to look at the whole situation: the person's goals, the effect on their life, whether they are still functioning normally, and whether the gaming behaviour has become seriously harmful.
-```
 ---
 
 [← Back to Interviews Home](../../../README.md) | [Next Interview →](./Interview04.md)

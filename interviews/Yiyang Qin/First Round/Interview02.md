@@ -1,4 +1,3 @@
-```md
 # Interview 2
 
 - **Topic:** Gacha Games, FPS Games, Narrative Engagement, Habit Formation, and Time Management
@@ -164,7 +163,6 @@
 **Interviewer:** So from your perspective, the thing that keeps a player engaged is rarely just one mechanic?
 
 **Interviewee:** Yes. It is usually a combination of things: the core gameplay, progression, social interaction, story, routine, and long-term goals. Different games rely on different combinations.
-```
 
 ---
 

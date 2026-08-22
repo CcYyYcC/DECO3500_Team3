@@ -1,4 +1,3 @@
-```md
 # Interview 4
 
 - **Topic:** Completionism, Collection, Game-Related Activities, Autonomy, and Long-Term Engagement
@@ -224,7 +223,6 @@ That can be a very effective way for a live-service game to keep players returni
 What worries me more is when the player feels that they no longer control the decision: when the system decides when they must log in, when sunk cost or responsibility makes them continue something they no longer enjoy, or when gaming starts replacing things they genuinely want or need to do.
 
 At the same time, even those situations are not completely simple because people can also find meaning and satisfaction in persistence itself. I think you have to look at why they are continuing, not only how many hours they spend.
-```
 
 ---
 
