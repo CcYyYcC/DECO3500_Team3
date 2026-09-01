@@ -1,9 +1,6 @@
 # GG 团队周计划 · Weekly Plan
 ### DECO3500 Assignment 3 — Design Project
 
-> 基于 UQ 2026学年 Semester 2 实际校历（Week1 = 7月27日开学）对齐。当前日期：**9月1日，Week 6**。
-> Based on UQ's actual Sem 2 2026 calendar (Week 1 starts Mon 27 Jul). Today = **1 Sep, Week 6**.
-
 ---
 
 ## 整学期总览 · Semester Overview
@@ -11,12 +8,12 @@
 | Week | 日期 Dates | 里程碑 Milestone | 本周重点 Focus |
 |---|---|---|---|
 | 1 | 7/27 – 7/31 | — | 组队、定题域 Form team, pick domain |
-| 2 | 8/3 – 8/7 | — | 前期研究 Early research |
-| 3 | 8/10 – 8/14 | — | 前期研究 Early research |
-| 4 | 8/17 – 8/21 | — | 准备 proposal Prep for proposal |
+| 2 | 8/3 – 8/7 | 📌 确定 domain 为游戏成瘾相关 Domain confirmed: gaming addiction | 前期研究 Early research |
+| 3 | 8/10 – 8/14 | 📌 细化 design challenge，设计访谈问题 Refine challenge, draft interview questions | 前期研究 Early research |
+| 4 | 8/17 – 8/21 | 📌 完成访谈+分析，确定 design opportunity：不再把游戏视为"坏东西"，重点从"控制游戏时长"转为"引导用户更好地规划自己的日程" Interviews + analysis done → design opportunity: reframe gaming as not inherently bad; shift from controlling play time to helping users plan their own schedules | 准备 proposal Prep for proposal |
 | 5 | 8/24 – 8/28 | ✅ **A2 Design Proposal**（周二presented, 周五charter） | 已完成 Done |
-| **6** | **8/31 – 9/4** | — | **← 现在在这里 You are here** — 根据 proposal 反馈细化设计方向，继续用户研究 |
-| 7 | 9/7 – 9/11 | — | 深化访谈/研究，开始低保真原型 Low-fi prototyping |
+| **6** | **8/31 – 9/4** | — | **← 现在在这里 You are here** — 根据 proposal 反馈，把"自主规划日程"这个设计方向落到 requirements 草稿里 |
+| 7 | 9/7 – 9/11 | — | 综合分析研究发现，推进低保真原型 Synthesize findings, low-fi prototyping |
 | 8 | 9/14 – 9/18 | 📌 Requirements 初稿（建议时间点） | 定稿 initial requirements，原型搭建启动 |
 | 9 | 9/21 – 9/25 | ✅ **A3a Stand-up 演讲**（studio内） | 展示研究成果/需求/早期原型/第一轮测试结果；提前更新 WIKI stand-up 页 |
 | — | 9/28 – 10/2 | 🏖️ **Semester Break** | 休息 / 可选：远程推进原型开发 |
@@ -30,8 +27,7 @@
 ## 近期两周细化 · Next Two Weeks in Detail
 
 ### Week 6（本周 · This Week, 8/31–9/4）
-- [ ] 团队回顾 proposal 反馈，明确/收窄设计方向
-- [ ] 继续/补充用户访谈或观察（MOBA 玩家）
+- [ ] 根据 proposal 反馈，进一步细化"帮助玩家自主规划日程"这个设计方向的具体表现形式
 - [ ] 开始整理研究发现，对应 requirements 草稿
 - [ ] 明确低保真原型的形式（wireframe / 场景脚本 / 草图）
 
