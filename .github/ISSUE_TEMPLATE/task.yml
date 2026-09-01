@@ -1,0 +1,61 @@
+name: "任务 / Task"
+description: "新建一个团队任务，会自动进入看板的 Backlog / Creates a team task, lands in the board's Backlog"
+title: "[Week X] "
+labels: ["task"]
+body:
+  - type: dropdown
+    id: week
+    attributes:
+      label: "所属周次 / Week"
+      description: "这项任务对应周计划里的哪一周？Which week from WEEKLY_PLAN.md does this belong to?"
+      options:
+        - "Week 6"
+        - "Week 7"
+        - "Week 8"
+        - "Week 9"
+        - "Week 10"
+        - "Week 11"
+        - "Week 12"
+        - "Week 13"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "类别 / Category"
+      options:
+        - "Research 研究"
+        - "Design 设计"
+        - "Prototype 原型"
+        - "Docs 文档"
+        - "Ethics 伦理考量"
+        - "Presentation 演讲/展示"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "任务描述 / Description"
+      description: "具体要做什么？What exactly needs to be done?"
+      placeholder: "例：完成3个MOBA玩家的半结构化访谈，整理访谈笔记\ne.g. Conduct 3 semi-structured interviews with MOBA players, write up notes"
+    validations:
+      required: true
+
+  - type: textarea
+    id: done_criteria
+    attributes:
+      label: "完成标准 / Definition of Done"
+      description: "怎么算做完了？What does 'done' look like for this task?"
+      placeholder: "例：访谈记录已上传至 /research 文件夹，关键引言已标注\ne.g. Interview notes uploaded to /research, key quotes tagged"
+    validations:
+      required: false
+
+  - type: input
+    id: owner
+    attributes:
+      label: "负责人 / Owner"
+      description: "谁负责？（也可以直接用右侧 Assignee 指定）Who owns this? (You can also set this via the Assignee field on the right.)"
+    validations:
+      required: false
