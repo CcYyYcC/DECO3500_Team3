@@ -1,4 +1,4 @@
-# DECO3801 / DECO7381 Team Project Repository
+# DECO3500
 
 This repository is the working space for your DECO3801 / DECO7381 team project.
 
