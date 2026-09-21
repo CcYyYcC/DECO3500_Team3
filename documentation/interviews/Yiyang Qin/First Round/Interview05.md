@@ -215,4 +215,4 @@ So I think people with fewer financial resources may rely more heavily on games 
 **Interviewee:** Yes. I think that is relevant.
 ---
 
-[← Back to Interviews Home](../../../README.md)
+[← Back to Interviews Home](../../../../README.md)
