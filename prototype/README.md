@@ -6,7 +6,7 @@ This document begins with the final product system. It records how Time Token an
 
 | Status | Owner | Last updated |
 | --- | --- | --- |
-| Course prototype development record | [To add: name] | 18 September 2026 |
+| Course prototype development record | Yiyang Qin| 18 September 2026 |
 
 | Document scope | Included content |
 | --- | --- |
