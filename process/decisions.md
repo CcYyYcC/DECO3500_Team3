@@ -33,11 +33,15 @@ What other options were considered?
 
 What are the implications, risks, or trade-offs?
 
+```
+
 ## Examples of Decisions to Record
-choosing a technology stack
-changing the project scope
-removing or adding a feature
-changing the design direction
-changing the database structure
-changing the evaluation method
-responding to mentor, stakeholder, or user feedbac
+
+- choosing a technology stack
+- changing the project scope
+- removing or adding a feature
+- changing the design direction
+- changing the database structure
+- changing the evaluation method
+- responding to mentor, stakeholder, or user feedback
+

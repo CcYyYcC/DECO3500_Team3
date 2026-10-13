@@ -1,4 +1,8 @@
-# DECO3500 Week 4 Team Meeting
+# Meeting Records
+
+Internal team meetings. Ongoing stand-ups are logged on the [Wiki](../../../wiki/Team-Meetings).
+
+---
 
 **Date:** 23 August 2026  
 **Meeting length:** Approximately 50 minutes  

@@ -11,3 +11,14 @@ tests/
 ├── frontend/
 ├── backend/
 └── integration/
+```
+
+---
+
+## Where the evaluation evidence lives
+
+Prototype test transcripts and summaries are kept with the rest of the project evidence, not here:
+
+- [`/documentation/evidence/user-testing/`](../../documentation/evidence/user-testing/README.md) — P01–P03 transcripts, EN/ZH combined summaries
+
+This folder is for test materials that belong with the prototype itself (scripts, technical validation, demo instructions).

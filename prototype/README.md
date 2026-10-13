@@ -19,7 +19,7 @@ This document begins with the final product system. It records how Time Token an
 
 Time Token is a personal timing device measuring about 60 × 60 × 60 mm. Time Tower is a shared display about 400 mm tall. Together, they turn an abstract time plan into physical feedback that users can pick up, turn over, view, and accumulate. The Token manages the start, progress, and completion of one time unit. The Tower organises completed units into a vertical record of the day.
 
-![Figure 1](assets/development-record/figure-01.png)
+![Figure 1](figures/figure-01.png)
 
 Figure 1. Three Time Token lid versions for study, entertainment, and rest.
 
@@ -35,11 +35,11 @@ Figure 1. Three Time Token lid versions for study, entertainment, and rest.
 
 - The user synchronises or submits the completed unit to Time Tower, adding the personal time unit to the shared daily record. Data transfer is planned through the ESP32, but the complete communication system has not yet been integrated or verified.
 
-![Figure 2](assets/development-record/figure-02.png)
+![Figure 2](figures/figure-02.png)
 
 Figure 2. Internal electronic layout of the Token.
 
-![Figure 3](assets/development-record/figure-03.png)
+![Figure 3](figures/figure-03.png)
 
 Figure 3. Front LED surround and rear mounting space.
 
@@ -47,7 +47,7 @@ Figure 3. Front LED surround and rear mounting space.
 
 Time Tower holds an 8 × 32 WS2812B flexible LED panel vertically inside its front window. Each completed time unit enters the display through its colour and position, allowing the distribution of study, entertainment, and rest to be reviewed across the day. The recess at the top holds the Time Token and creates a clear action between the personal device and the shared display. The lower section stores the power bank and control boards, while the upper section supports the display and Token placement.
 
-![Figure 4](assets/development-record/figure-04.png)
+![Figure 4](figures/figure-04.png)
 
 Figure 4. Proposed Time Tower exterior, internal layout, and divided structure.
 
@@ -93,7 +93,7 @@ The commercial components used in the final design are divided between the Token
 | 5 V three-pin vibration module | Nominal PCB 23 × 21 mm; rated at 60 mA with about 90 mA starting current | Haptic feedback after completion | Close-fitting rail in the main shell with clearance for the three-pin connector and solder; function not yet verified |
 | Mini breadboard | 47 × 35 × 10 mm | Connect and organise prototype wiring | Locating slot about 2 mm deep in the base |
 
-![Figure 5](assets/development-record/figure-05.png)
+![Figure 5](figures/figure-05.png)
 
 Figure 5. Final internal supports: thin sensor base with cross ribs, lowered ESP32 area, and vibration-module rail below.
 
@@ -106,11 +106,11 @@ Figure 5. Final internal supports: thin sensor base with cross ribs, lowered ESP
 | ESP32-S3-Zero | Compact wireless controller | Planned to receive Token data and pass it to the display logic | Separate support platform at the rear of the upper section |
 | CUKTECH 15 PB200 | 20,000 mAh power bank | Provide portable power for the Tower | Placed vertically at the rear of the lower section with ports facing upward |
 
-![Figure 6](assets/development-record/figure-06.png)
+![Figure 6](figures/figure-06.png)
 
 Figure 6. Internal layout of the Tower LED, power bank, and control boards.
 
-![Figure 7](assets/development-record/figure-07.png)
+![Figure 7](figures/figure-07.png)
 
 Figure 7. Relationship between the lower section, upper section, and top cap.
 
@@ -122,11 +122,11 @@ The project files contain CAD subversions from V1 to V11, but these do not repre
 
 The first round connected the LED, accelerometer, XIAO controller, and breadboard into a working electronic prototype before building a fixed enclosure around them. The first enclosure measured about 90 × 90 × 80 mm. Its purpose was to confirm component positions and cable paths rather than achieve a portable size. The physical prototype revealed that the jumper wires were long, the LED driver and connectors required more depth, and the upper and lower internal spaces needed to be reorganised.
 
-![Figure 8](assets/development-record/figure-08.jpeg)
+![Figure 8](figures/figure-08.jpeg)
 
 Figure 8. First physical prototype with electronic components directly connected.
 
-![Figure 9](assets/development-record/figure-09.png)
+![Figure 9](figures/figure-09.png)
 
 Figure 9. First enclosure and section view built around the original components.
 
@@ -134,11 +134,11 @@ Figure 9. First enclosure and section view built around the original components.
 
 The second round reduced the enclosure to about 60 × 60 × 60 mm and changed it to a main shell with an integrated left-and-top cover. The breadboard sat inside a recessed locating slot, while the controller and accelerometer occupied the second level. The first fitting test showed that the jumper connectors above the LED added height and prevented the cover from closing. The LED was therefore lowered, a cable opening was added, and the screw mounts were redesigned for the available M4 × 10 pointed screws.
 
-![Figure 10](assets/development-record/figure-10.png)
+![Figure 10](figures/figure-10.png)
 
 Figure 10. Second-round 60 mm layout and two-level structure.
 
-![Figure 11](assets/development-record/figure-11.png)
+![Figure 11](figures/figure-11.png)
 
 Figure 11. Revision with lowered LED, shallow base slot, and upper retainer.
 
@@ -146,21 +146,21 @@ Figure 11. Revision with lowered LED, shallow base slot, and upper retainer.
 
 The third round adopted a three-pack of MAX7219 8 × 8 LED modules. The new module has a driver approximately the same size as the LED face, places the input connector on the back, and provides fixed red, green, and blue versions. This removed the previous top connector from the cover space. The enclosure was changed to wrap around all four edges of the front panel, allowing the module to be secured by pushing it outwards from inside. Physical fitting showed that this was firm enough without screws or complex clips in the limited space. The controller also changed from the XIAO SAMD21 to the ESP32-S3-Zero, so the USB-C opening and retaining bar were updated.
 
-![Figure 12](assets/development-record/figure-12.png)
+![Figure 12](figures/figure-12.png)
 
 Figure 12. Structural rearrangement for the new LED module and ESP32-S3-Zero.
 
-![Figure 13](assets/development-record/figure-13.png)
+![Figure 13](figures/figure-13.png)
 
 Figure 13. Tray, supports, and USB-C opening reinforced after print testing.
 
 #### Physical evidence from iteration three
 
-![Figure 14](assets/development-record/figure-14.png)
+![Figure 14](figures/figure-14.png)
 
 Figure 14. Front view of the black LED panel fitted into the printed frame.
 
-![Figure 15](assets/development-record/figure-15.png)
+![Figure 15](figures/figure-15.png)
 
 Figure 15. Rear driver and the retained PCB edges.
 
@@ -168,15 +168,15 @@ Figure 15. Rear driver and the retained PCB edges.
 
 The fourth round combined the exterior and internal mounting system into the final course prototype. The four vertical edges use an approximately R5 corner radius, while the top and bottom remain flat to prevent large curves from creating rough unsupported surfaces during printing. Three raised-symbol lids represent study, entertainment, and rest. The sensor base was made thinner and supported by three cross ribs, with the screw-hole centre positioned 22 mm from the rear inner wall. The ESP32 platform was lowered by 2 mm, and the vibration-module rail was moved below it. The bottom profile was checked for interference with the recess at the top of the Tower.
 
-![Figure 16](assets/development-record/figure-16.png)
+![Figure 16](figures/figure-16.png)
 
 Figure 16. Final three lids with rounded vertical edges and flat top and bottom surfaces.
 
-![Figure 17](assets/development-record/figure-17.png)
+![Figure 17](figures/figure-17.png)
 
 Figure 17. Final sensor support ribs and continuous internal support surface.
 
-![Figure 18](assets/development-record/figure-18.png)
+![Figure 18](figures/figure-18.png)
 
 Figure 18. Screwless rail that allows the vibration module to slide directly into the main shell.
 
@@ -188,7 +188,7 @@ The final version includes printable STEP and STL files and an editable Shapr3D 
 
 Time Tower measures about 115 × 110 × 400 mm. To fit the Bambu Lab A1 build volume of 256 × 256 × 256 mm, the body is printed as three parts: a lower section, upper section, and top cap. The lower section holds the PB200. The upper section holds two control boards and supports the LED panel. The top cap provides a 62 × 62 mm Token recess about 4 mm deep. Both joints use three locking tabs and approximately 15° of rotation, so each part is inserted first and then twisted into position.
 
-![Figure 19](assets/development-record/figure-19.png)
+![Figure 19](figures/figure-19.png)
 
 Figure 19. Three printed Time Tower parts and the continuous LED panel.
 
@@ -196,11 +196,11 @@ Figure 19. Three printed Time Tower parts and the continuous LED panel.
 
 The flexible LED panel remains flat rather than being rolled into a cylinder. The left and right rails hold only the approximately 3 mm blank edges of the panel, leaving the centre of the window open. The original plan used a backing plate behind the rails with a cable opening. The printed upper section did not include a complete rear stop, so one rail slot could not control the panel securely. A locating slot about 2 mm deep was therefore added to the lower section, together with a separate upper retainer. The retainer is inserted from the top and extends down about 50 mm. It uses the left and right inner walls, the tops of the rails, and a C-shaped clip on the right to hold the panel mechanically.
 
-![Figure 20](assets/development-record/figure-20.png)
+![Figure 20](figures/figure-20.png)
 
 Figure 20. Upper retainer restricting the LED panel edge from the rear.
 
-![Figure 21](assets/development-record/figure-21.png)
+![Figure 21](figures/figure-21.png)
 
 Figure 21. Locating wings, top bridge, rear stop, and right-side C-shaped clip.
 
@@ -267,5 +267,5 @@ Photograph of the Time Token inserted into the top of Time Tower
 
 ## Deployment and Testing
 
-- [Deployment instructions](deployment/README.md)
-- [Tests and evaluation evidence](tests/README.md)
+- [Deployment guide](deployment-guide.md)
+- [Testing guide](testing-guide.md) · [Evaluation evidence](../research/user-testing/README.md)

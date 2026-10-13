@@ -34,3 +34,4 @@ If environment variables are needed, provide an example file such as:
 
 ```text
 .env.example
+```

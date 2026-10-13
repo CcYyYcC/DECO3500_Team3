@@ -1,11 +1,19 @@
+# Design
+
+Design artefacts and rationale — the raw material behind the design.
+
+| File | What it is |
+|---|---|
+| `Design_Iteration_Poster_en.png` | Design iteration poster (A2) |
+| `Design_Iteration_Process.docx` | Written iteration process |
+| `Literature_Research.docx` | Literature research |
+| [`Miro_Design_Concepts.md`](Miro_Design_Concepts.md) | Miro activity record — design & technology concepts |
+
+The narrative **Design Process Overview** is a [Wiki page](../../../wiki/Design-Process-Overview), not a file here. This folder holds the evidence it draws on.
 
 ---
 
-## `design/README.md`
-
-```markdown
-# Design
-
+## Guidance
 Use this folder for design artefacts and design rationale.
 
 This folder should show how the team understood users, explored possible solutions, made design decisions, and improved the prototype over time.
