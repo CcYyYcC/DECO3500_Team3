@@ -7,6 +7,7 @@ Design artefacts and rationale — the raw material behind the design.
 | `Time_Tokens_A2_Poster_v121.pdf` | **Final A2 poster** (print resolution) |
 | `Time_Tokens_A2_Poster_v121.jpg` | Poster preview for embedding in the wiki and markdown |
 | [`concepts/`](concepts/README.md) | Concept visualisations and sketches, extracted from the development notebook |
+| [`build/`](build/README.md) | Photographs of the current build, for embedding in the wiki |
 | `Design_Iteration_Poster_en.png` | Design iteration poster (A2) |
 | `Design_Iteration_Process.docx` | Written iteration process |
 | `Literature_Research.docx` | Literature research |
