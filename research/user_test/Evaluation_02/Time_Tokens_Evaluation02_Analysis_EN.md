@@ -10,7 +10,7 @@
 
 > **Key distinction.** This document distinguishes **what was said or reported during the tests**, **the analysts' interpretation**, and **what the team has decided or might change**. No user outcome is claimed unless supported by the supplied transcripts. In particular, keeping the one-hour restart is a **confirmed team design decision**, not evidence that the checkpoint has already improved reflection.
 
-> **Edition and scope note.** This English-only edition retains the source report's organisation, six themes, 16 initial codes, segment IDs and evidential qualifications. The final team-review summary has been translated into English. The companion [Evaluation Protocol](Time_Tokens_Evaluation_Protocol_EN.md) includes planned Test A, Test B and optional real-hour procedures; their inclusion does not establish that every procedure was completed in the analysed sessions.
+> **Edition and scope note.** This English-only edition retains the source report's organisation, six themes, 16 initial codes, segment IDs and evidential qualifications. The final team-review summary has been translated into English. The companion [Evaluation Protocol](Time_Tokens_Evaluation02_Protocol_EN.md) includes planned Test A, Test B and optional real-hour procedures; their inclusion does not establish that every procedure was completed in the analysed sessions.
 
 ## Executive summary
 
