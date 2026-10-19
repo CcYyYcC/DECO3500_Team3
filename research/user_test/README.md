@@ -71,44 +71,28 @@ Brief anonymised description, if relevant.
 
 ## Contents
 
+Two formative rounds, one folder each. Each folder's README covers what was tested, the file
+list, and the rules for quoting that round.
+
+| | [`Evaluation_01/`](Evaluation_01/README.md) | [`Evaluation_02/`](Evaluation_02/README.md) |
+|---|---|---|
+| **When** | After the first build | 18 October 2026 |
+| **Prototype** | Study Token only, single-column Tower | Three Tokens, two-column Tower |
+| **Participants** | 3, individually | 2, individually |
+| **Social layer** | Described verbally as a hypothetical | Enacted — a programmed housemate (B_sim) held the second column |
+| **Time** | 8 seconds = 1 hour | 8 seconds = 1 hour |
+| **Transcripts** | Direct — quotable as participants' own words | Cleaned, not verbatim; much of P02 unattributed |
+| **Recordings** | — | UQ SharePoint, UQ access only |
+| **Findings** | E1–E6 | T1–T6 |
+
+**Neither round tested natural multi-user use.** Round 1 could not touch the social layer at
+all; Round 2 enacted it against a simulation. Test B — two real users in a shared setting — is
+specified in the Round 2 protocol and **has not been conducted**, so real paired interaction
+remains unverified.
+
 > **Participant labels are not continuous across rounds.** Round 1's P01–P03 and Round 2's
 > P01–P02 are **different people**. A bare citation such as `P01-042` is ambiguous — always
 > name the round alongside the segment ID.
 
-### Round 1 — initial prototype test
-
-Study Token only, single-column Tower, three participants, one hour simulated as eight seconds.
-
-| File | What it is |
-|---|---|
-| `P01_Prototype_Test_Transcript.md` | Participant 1 transcript |
-| `P02_Prototype_Test_Transcript.md` | Participant 2 transcript |
-| `P03_Prototype_Test_Transcript.md` | Participant 3 transcript |
-| `Prototype_Test_Interview_Summary_EN.md` | Combined findings (English) |
-| `Prototype_Test_Interview_Summary_ZH.md` | Combined findings (中文) |
-
-### Round 2 — [`Evaluation_02/`](Evaluation_02/)
-
-All three Tokens and the two-column Tower, with a **programmed housemate (B_sim)** occupying
-the second column. Two participants, 18 October 2026.
-
-**Session recordings** are held on UQ SharePoint under UQ-only access rather than committed
-here, because this repository is public and the video shows identifiable participants. The
-link and the access note are in [`Evaluation_02/README.md`](Evaluation_02/README.md).
-
-| File | What it is |
-|---|---|
-| `Time_Tokens_Evaluation02_Protocol_EN.md` | Protocol — Test A (one real participant + B_sim) and Test B (two real users) |
-| `P01_UserTest_Transcript_EN.md` | Participant 1 cleaned transcript, segments `P01-001`–`P01-062` |
-| `P02_UserTest_Transcript_EN.md` | Participant 2 cleaned transcript, segments `P02-001`–`P02-074` |
-| `Time_Tokens_Evaluation02_Analysis_EN.md` | Analysis — 16 codes, six themes, design decisions, limitations |
-
-**Only Test A was run.** Test B (two real users) is specified in the protocol but has not been
-conducted, so real paired interaction remains unverified.
-
-**Quoting Round 2:** these are *lightly cleaned* transcripts, not verbatim records, and in much
-of the P02 material several voices are not separated turn by turn. Only lines tagged `P01:` are
-attributed to a named participant — everything else is unattributed staged-discussion material.
-Check the original recording and speaker assignment before publishing any direct quotation.
-
-Earlier user-research interviews (before the prototype) are under [`/research/interviews/`](../interviews/).
+Narrative write-up of both rounds:
+[User Evaluation](https://github.com/CcYyYcC/DECO3500_Team3/wiki/User-Evaluation).
