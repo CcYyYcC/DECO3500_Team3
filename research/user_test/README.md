@@ -92,6 +92,10 @@ Study Token only, single-column Tower, three participants, one hour simulated as
 All three Tokens and the two-column Tower, with a **programmed housemate (B_sim)** occupying
 the second column. Two participants, 18 October 2026.
 
+**Session recordings** are held on UQ SharePoint under UQ-only access rather than committed
+here, because this repository is public and the video shows identifiable participants. The
+link and the access note are in [`Evaluation_02/README.md`](Evaluation_02/README.md).
+
 | File | What it is |
 |---|---|
 | `Time_Tokens_Evaluation02_Protocol_EN.md` | Protocol — Test A (one real participant + B_sim) and Test B (two real users) |
