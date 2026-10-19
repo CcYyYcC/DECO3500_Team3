@@ -4,6 +4,7 @@ Project process records: meetings, decisions, risks, and compliance.
 
 | File | What it holds |
 |---|---|
+| `DECO3500_Project_Development_Notebook.pdf` | **Project Development Notebook** — the full four-stage process record from the original brief through to the built prototype. Its concept figures are extracted to [`/design/concepts/`](../design/concepts/README.md) |
 | [`meetings.md`](meetings.md) | Internal meeting records and individual contribution |
 | [`decisions.md`](decisions.md) | Decision records — what was decided and why |
 | [`risks.md`](risks.md) | Risk register |
