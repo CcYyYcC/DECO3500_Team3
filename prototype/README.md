@@ -268,4 +268,4 @@ Photograph of the Time Token inserted into the top of Time Tower
 ## Deployment and Testing
 
 - [Deployment guide](deployment-guide.md)
-- [Testing guide](testing-guide.md) · [Evaluation evidence](../research/user-testing/README.md)
+- [Testing guide](testing-guide.md) · [Evaluation evidence](../research/user_test/README.md)

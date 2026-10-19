@@ -6,8 +6,8 @@ Our prototype explores how everyday time use can be made more tangible and visib
 
 The current system consists of two main parts:
 
-1. **Personal Time Tokens** — physical devices used to represent and track different activity types, including Work/Study, Entertainment, and Rest.
-2. **Shared Time Tower** — a public physical display intended to receive completed activity time from individual Tokens and visualise accumulated time in a shared form.
+1. **Personal Time Tokens** — physical devices used to represent and track different activity types: Study, Exercise and Gaming.
+2. **Shared Time Tower** — a public physical display that receives completed activity time from individual Tokens and visualises accumulated time in a shared form, in two columns so two people's records stay separable.
 
 The prototype is designed to support reflection rather than restrict particular activities. Instead of telling users whether an activity is "good" or "bad", it makes the distribution of time more visible so that users can notice patterns in how they spend their day.
 

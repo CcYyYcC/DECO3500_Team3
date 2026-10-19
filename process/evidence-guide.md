@@ -15,6 +15,6 @@ Students may be asked to explain and demonstrate their own contribution. Do not 
 ```text
 evidence/
 ├── weekly-contribution/
-├── user-testing/
+├── user_test/
 └── screenshots/
 ```

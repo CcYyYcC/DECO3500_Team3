@@ -1,10 +1,14 @@
 # Time Tokens & Time Tower
 
-A tangible time-awareness system for shared living spaces — DECO3500 (Assignment 3: Design Project), Team 3 ("GG").
+A tangible time-awareness system for shared spaces — DECO3500 (Assignment 3: Design Project), Team 3 ("GG").
 
-Residents flip a physical cube to start a timed block (Work/Study · Entertainment · Rest) and dock it into a shared "Time Tower", which displays the day as accumulating coloured light. The Tower is visible to everyone in the share house, turning individual time use into shared, ambient awareness.
+Three activity Tokens — **Study, Exercise and Gaming** — each turn a chosen hour into a tangible unit. Flip a Token to start the hour; the completed unit transfers to a shared **Time Tower** and becomes a coloured activity trace. The Tower carries two columns, so two people's records sit side by side, and hook-and-loop strips down its side let each person mark what they *planned* beside what actually accumulated.
 
-**Design opportunity:** the problem is not that people game too much, but that gaming sometimes takes priority over real-life commitments at the wrong moment. We help people make that comparison themselves, before they start — using peer awareness rather than restriction.
+**Design question:** how might we make personal time use visible and encourage reflection, without judging or restricting people's activities?
+
+We began from a brief about combatting computer game addiction and moved away from it early: our interviews showed the same number of hours means different things in different lives, so restricting play responds to the wrong variable. Time Tokens visualises recorded activity time — not productivity.
+
+![Latest build](design/build/current-build-tower-and-tokens.jpg)
 
 ---
 
@@ -91,7 +95,7 @@ Current development status and next iteration: [`/prototype/development-record.m
 │
 ├── research/            user research & evaluation evidence
 │   ├── interviews/            14 transcripts, named <interviewer>_<n>
-│   └── user-testing/          prototype test transcripts + summaries
+│   └── user_test/             prototype evaluation — round 1 + round 2
 │
 ├── design/              design artefacts: poster, iteration process, literature, Miro record
 │
