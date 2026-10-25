@@ -9,8 +9,8 @@ The design process and its outputs — from first concepts to the final poster.
 | [`frameworks/`](frameworks/README.md) | Design theory the project was tested against, and what each one changed |
 | [`iterations/`](iterations/README.md) | How the design changed, and on what evidence |
 | [`interaction_flow/`](interaction_flow/README.md) | How the final system is used, shown on the built prototype |
-| [`poster/`](poster/README.md) | The A2 conference poster and the copy behind it |
-| [`promotional/`](promotional/README.md) | Demo video and exhibition photographs |
+| [`poster/`](poster/) | The A2 conference poster and the A5 brochure |
+| [`promotional/`](promotional/) | Exhibition photographs |
 
 The narrative **Design Process Overview** is a
 [wiki page](https://github.com/CcYyYcC/DECO3500_Team3/wiki/Design-Process-Overview), not a

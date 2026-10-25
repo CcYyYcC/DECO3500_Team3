@@ -489,5 +489,5 @@ For the full wiring, library and pin list, see the separate English firmware gui
 ## Deployment and Testing
 
 - [Deployment guide](deployment-guide.md)
-- [Testing guide](testing-guide.md) · [Evaluation evidence](../research/user_test/README.md)
+- [Evaluation evidence](../research/user_test/README.md)
 - Firmware development and code evidence: Section 11 above; use the matching five-board DemoCycle v3 source package.

@@ -18,8 +18,8 @@ We began from a brief about combatting computer game addiction and moved away fr
 |---|---|
 | **Prototype** | [`/prototype/`](prototype/README.md) — in this repo, see below |
 | **Ongoing documentation** | [`/research/`](research/README.md) · [`/design/`](design/README.md) · [`/process/`](process/README.md) |
-| **Poster** | [`/design/poster/`](design/poster/README.md) |
-| **Team contributions** | [`/team/`](team/README.md) |
+| **Poster** | [`/design/poster/`](design/poster/) |
+| **Team meetings** | [`/team/`](team/README.md) |
 | **Design Process Overview** | [Wiki page](../../wiki/Design-Process-Overview) |
 | **Ethical Considerations** | [Wiki page](../../wiki/Ethical-Considerations) |
 | **Stand-up records** | [Wiki page](../../wiki/Team-Meetings) · [Week 9 Stand-up](../../wiki/Week-9-Stand-up) |
@@ -108,14 +108,12 @@ Current development status and next iteration: [`/prototype/development-record.m
 │   └── figures/           enclosure iteration figures
 │
 ├── process/         04. project management
-│   ├── meeting_notes/     team meetings, and how we meet
 │   ├── decisions/         decision records, ethical disclaimer
 │   ├── risks_and_limitations.md
 │   └── ai_use_declaration.md
 │
-├── team/            05. contributions and evidence
-│   ├── team_contributions.md
-│   └── individual_evidence/
+├── team/            05. weekly meeting records
+│   └── week-04 … week-12
 │
 └── .github/         issue template used by the Projects board
 ```
