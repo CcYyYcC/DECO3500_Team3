@@ -1,4 +1,4 @@
-# Round 1 — Evaluation 01
+# Round 1
 
 First formative evaluation, run after the initial prototype was built.
 **Three participants**, tested individually.
@@ -25,11 +25,11 @@ then the interview.
 
 | File | What it is |
 |---|---|
-| [`P01_Prototype_Test_Transcript.md`](P01_Prototype_Test_Transcript.md) | Participant 1 transcript, EN + 中文 |
-| [`P02_Prototype_Test_Transcript.md`](P02_Prototype_Test_Transcript.md) | Participant 2 transcript, EN + 中文 |
-| [`P03_Prototype_Test_Transcript.md`](P03_Prototype_Test_Transcript.md) | Participant 3 transcript, EN + 中文 |
-| [`Prototype_Test_Interview_Summary_EN.md`](Prototype_Test_Interview_Summary_EN.md) | Combined findings, English |
-| [`Prototype_Test_Interview_Summary_ZH.md`](Prototype_Test_Interview_Summary_ZH.md) | Combined findings, 中文 |
+| [`P01_Prototype_Test_Transcript.md`](transcripts/P01_Prototype_Test_Transcript.md) | Participant 1 transcript, EN + 中文 |
+| [`P02_Prototype_Test_Transcript.md`](transcripts/P02_Prototype_Test_Transcript.md) | Participant 2 transcript, EN + 中文 |
+| [`P03_Prototype_Test_Transcript.md`](transcripts/P03_Prototype_Test_Transcript.md) | Participant 3 transcript, EN + 中文 |
+| [`Prototype_Test_Interview_Summary_EN.md`](results/Prototype_Test_Interview_Summary_EN.md) | Combined findings, English |
+| [`Prototype_Test_Interview_Summary_ZH.md`](results/Prototype_Test_Interview_Summary_ZH.md) | Combined findings, 中文 |
 
 > **Missing evidence — observation sheets.** Both summaries cite marked observation sheets as
 > `P01.pdf`, `P02.pdf` and `P03(1).pdf`, and the per-participant counts (second flip
@@ -39,7 +39,7 @@ then the interview.
 
 ## Quoting this round
 
-Unlike [Round 2](../Evaluation_02/README.md), these transcripts are **direct** — each line is
+Unlike [Round 2](../round_2/README.md), these transcripts are **direct** — each line is
 attributed to the interviewer or to a named participant, so they can be quoted as
 participants' own words.
 
@@ -71,7 +71,7 @@ it would not answer whether the social concept works.
 
 ---
 
-Round 2 evidence: [`../Evaluation_02/`](../Evaluation_02/README.md) ·
+Round 2 evidence: [`../round_2/`](../round_2/README.md) ·
 folder-wide privacy rules: [`../README.md`](../README.md) ·
 narrative write-up of both rounds:
 [User Evaluation](https://github.com/CcYyYcC/DECO3500_Team3/wiki/User-Evaluation).

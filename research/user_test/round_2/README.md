@@ -1,4 +1,4 @@
-# Round 2 — Evaluation 02
+# Round 2
 
 Formative evaluation of the three-Token build and the two-column Tower.
 **18 October 2026.** Two participants, run individually.
@@ -23,10 +23,10 @@ this folder are **cleaned translations of them**, not verbatim.
 
 | File | What it is |
 |---|---|
-| [`Time_Tokens_Evaluation02_Protocol_EN.md`](Time_Tokens_Evaluation02_Protocol_EN.md) | Protocol — Test A (one real participant + simulated housemate) and Test B (two real users) |
-| [`P01_UserTest_Transcript_EN.md`](P01_UserTest_Transcript_EN.md) | Participant 1 cleaned transcript, segments `P01-001`–`P01-062` |
-| [`P02_UserTest_Transcript_EN.md`](P02_UserTest_Transcript_EN.md) | Participant 2 cleaned transcript, segments `P02-001`–`P02-074` |
-| [`Time_Tokens_Evaluation02_Analysis_EN.md`](Time_Tokens_Evaluation02_Analysis_EN.md) | Analysis — 16 codes, six themes, design decisions, limitations |
+| [`Time_Tokens_Evaluation02_Protocol_EN.md`](protocol/Time_Tokens_Evaluation02_Protocol_EN.md) | Protocol — Test A (one real participant + simulated housemate) and Test B (two real users) |
+| [`P01_UserTest_Transcript_EN.md`](transcripts/P01_UserTest_Transcript_EN.md) | Participant 1 cleaned transcript, segments `P01-001`–`P01-062` |
+| [`P02_UserTest_Transcript_EN.md`](transcripts/P02_UserTest_Transcript_EN.md) | Participant 2 cleaned transcript, segments `P02-001`–`P02-074` |
+| [`Time_Tokens_Evaluation02_Analysis_EN.md`](results/Time_Tokens_Evaluation02_Analysis_EN.md) | Analysis — 16 codes, six themes, design decisions, limitations |
 
 ## What was actually run
 

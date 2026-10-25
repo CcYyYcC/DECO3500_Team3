@@ -166,4 +166,4 @@
 
 ---
 
-[← Back to Interviews Home](../../../../README.md) | [Next Interview →](./yiyang-qin_03.md)
+[← Back to Interviews Home](../../README.md) | [Next Interview →](./yiyang-qin_03.md)

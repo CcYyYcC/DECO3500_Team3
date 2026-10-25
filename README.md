@@ -8,7 +8,7 @@ Three activity Tokens — **Study, Exercise and Gaming** — each turn a chosen 
 
 We began from a brief about combatting computer game addiction and moved away from it early: our interviews showed the same number of hours means different things in different lives, so restricting play responds to the wrong variable. Time Tokens visualises recorded activity time — not productivity.
 
-![Latest build](design/build/current-build-tower-and-tokens.jpg)
+![Latest build](design/interaction_flow/current-build-tower-and-tokens.jpg)
 
 ---
 
@@ -18,6 +18,8 @@ We began from a brief about combatting computer game addiction and moved away fr
 |---|---|
 | **Prototype** | [`/prototype/`](prototype/README.md) — in this repo, see below |
 | **Ongoing documentation** | [`/research/`](research/README.md) · [`/design/`](design/README.md) · [`/process/`](process/README.md) |
+| **Poster** | [`/design/poster/`](design/poster/README.md) |
+| **Team contributions** | [`/team/`](team/README.md) |
 | **Design Process Overview** | [Wiki page](../../wiki/Design-Process-Overview) |
 | **Ethical Considerations** | [Wiki page](../../wiki/Ethical-Considerations) |
 | **Stand-up records** | [Wiki page](../../wiki/Team-Meetings) · [Week 9 Stand-up](../../wiki/Week-9-Stand-up) |
@@ -84,25 +86,38 @@ Current development status and next iteration: [`/prototype/development-record.m
 
 ```text
 .
-├── README.md            this file — guide, deploy & usage
+├── research/        01. user research and evaluation
+│   ├── literature/        literature and theory
+│   ├── interviews/        14 transcripts, 2 with audio
+│   ├── analysis/          affinity mapping, themes
+│   └── user_test/         round_1/ · round_2/ · evaluation_analysis.md
 │
-├── prototype/           the prototype itself
-│   ├── README.md              build record: how it works, components, iterations
-│   ├── development-record.md  iteration 1 development log
-│   ├── deployment-guide.md    what deployment docs must cover
-│   ├── testing-guide.md       scope of testing for this project
-│   └── figures/               21 build figures
+├── design/          02. design process and outputs
+│   ├── initial_concepts/  early concepts and sketches
+│   ├── design_sprints/    sprint 1 and 2
+│   ├── frameworks/        design theory and what it changed
+│   ├── iterations/        how the design changed, and why
+│   ├── interaction_flow/  how the final system is used
+│   ├── poster/            the A2 poster and its copy
+│   └── promotional/       demo video, exhibition photos
 │
-├── research/            user research & evaluation evidence
-│   ├── interviews/            14 transcripts, named <interviewer>_<n>
-│   └── user_test/             prototype evaluation — round 1 + round 2
+├── prototype/       03. the prototype and its build
+│   ├── time_token/        firmware · hardware · cad · photos
+│   ├── time_tower/        firmware · hardware · cad · photos
+│   ├── communication/     ESP-NOW between the two
+│   └── figures/           enclosure iteration figures
 │
-├── design/              design artefacts: poster, iteration process, literature, Miro record
+├── process/         04. project management
+│   ├── meeting_notes/     team meetings, and how we meet
+│   ├── decisions/         decision records, ethical disclaimer
+│   ├── risks_and_limitations.md
+│   └── ai_use_declaration.md
 │
-├── process/             meetings, decisions, risks, AI-use disclosure, ethical disclaimer
+├── team/            05. contributions and evidence
+│   ├── team_contributions.md
+│   └── individual_evidence/
 │
-├── team/                internal planning (weekly plan, project board setup)
-└── .github/             issue template used by the Projects board
+└── .github/         issue template used by the Projects board
 ```
 
 ## Team

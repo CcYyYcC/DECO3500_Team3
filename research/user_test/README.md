@@ -1,80 +1,8 @@
-# User Testing and Evaluation Evidence
+# User Testing
 
-Use this folder for user testing and evaluation materials.
+Two formative rounds of prototype evaluation, one folder each, plus the analysis across both.
 
-## What to Include
-
-- user testing plans
-- testing scripts
-- participant task lists
-- observation notes
-- interview summaries
-- survey summaries
-- usability findings
-- accessibility findings
-- evaluation results
-- changes made after testing
-
-## Privacy
-
-Do not store identifiable participant information unless there is a clear approved reason.
-
-Avoid storing:
-
-- participant names
-- contact details
-- raw identifiable recordings
-- private user data
-- sensitive personal information
-
-Use anonymised or summarised data where appropriate.
-
-## Suggested Evaluation Summary Format
-
-```markdown
-# Evaluation Summary: [Short Title]
-
-## Date
-
-[Date]
-
-## Purpose
-
-What were you trying to learn?
-
-## Method
-
-How was the evaluation conducted?
-
-## Participants
-
-Brief anonymised description, if relevant.
-
-## Key Findings
-
-- Finding 1
-- Finding 2
-- Finding 3
-
-## Changes Made
-
-- Change 1
-- Change 2
-
-## Remaining Issues
-
-- Issue 1
-- Issue 2
-```
-
----
-
-## Contents
-
-Two formative rounds, one folder each. Each folder's README covers what was tested, the file
-list, and the rules for quoting that round.
-
-| | [`Evaluation_01/`](Evaluation_01/README.md) | [`Evaluation_02/`](Evaluation_02/README.md) |
+| | [`round_1/`](round_1/README.md) | [`round_2/`](round_2/README.md) |
 |---|---|---|
 | **When** | After the first build | 18 October 2026 |
 | **Prototype** | Study Token only, single-column Tower | Three Tokens, two-column Tower |
@@ -85,14 +13,40 @@ list, and the rules for quoting that round.
 | **Recordings** | — | UQ SharePoint, UQ access only |
 | **Findings** | E1–E6 | T1–T6 |
 
+**Analysis across both rounds:** [`evaluation_analysis.md`](evaluation_analysis.md) — what
+the second round confirmed rather than resolved, where the two rounds disagree, and what
+neither could answer.
+
+Each round folder is laid out the same way:
+
+```text
+round_n/
+├── protocol/        test plan, scripts, participant tasks
+├── transcripts/     per-participant transcripts
+├── results/         summaries and analysis
+└── photos/          session photographs
+```
+
 **Neither round tested natural multi-user use.** Round 1 could not touch the social layer at
-all; Round 2 enacted it against a simulation. Test B — two real users in a shared setting — is
-specified in the Round 2 protocol and **has not been conducted**, so real paired interaction
-remains unverified.
+all; Round 2 enacted it against a simulation. Test B — two real users in a shared setting —
+is specified in the Round 2 protocol and **has not been conducted**, so real paired
+interaction remains unverified.
 
 > **Participant labels are not continuous across rounds.** Round 1's P01–P03 and Round 2's
 > P01–P02 are **different people**. A bare citation such as `P01-042` is ambiguous — always
 > name the round alongside the segment ID.
 
+## Privacy
+
+Do not store identifiable participant information — names, contact details, or raw
+identifiable recordings — unless there is a clear approved reason. Use anonymised or
+summarised data. Round 2's recordings are held on UQ SharePoint under UQ-only access rather
+than committed here, because this repository is public and the video shows identifiable
+participants.
+
 Narrative write-up of both rounds:
 [User Evaluation](https://github.com/CcYyYcC/DECO3500_Team3/wiki/User-Evaluation).
+
+---
+
+[← Research](../README.md)

@@ -1,58 +1,39 @@
 # Design
 
-Design artefacts and rationale — the raw material behind the design.
+The design process and its outputs — from first concepts to the final poster.
 
-| File | What it is |
+| Folder | What it holds |
 |---|---|
-| `Time_Tokens_A2_Poster_v121.pdf` | **Final A2 poster** (print resolution) |
-| `Time_Tokens_A2_Poster_v121.jpg` | Poster preview for embedding in the wiki and markdown |
-| [`concepts/`](concepts/README.md) | Concept visualisations and sketches, extracted from the development notebook |
-| [`build/`](build/README.md) | Photographs of the current build, for embedding in the wiki |
-| `Design_Iteration_Poster_en.png` | Design iteration poster (A2) |
-| `Design_Iteration_Process.docx` | Written iteration process |
-| `Literature_Research.docx` | Literature research |
-| [`Miro_Design_Concepts.md`](Miro_Design_Concepts.md) | Miro activity record — design & technology concepts |
+| [`initial_concepts/`](initial_concepts/README.md) | Early divergent concepts and sketches from ideation |
+| [`design_sprints/`](design_sprints/README.md) | Sprint 1 and Sprint 2 — what each produced, and why Sprint 1 was abandoned |
+| [`frameworks/`](frameworks/README.md) | Design theory the project was tested against, and what each one changed |
+| [`iterations/`](iterations/README.md) | How the design changed, and on what evidence |
+| [`interaction_flow/`](interaction_flow/README.md) | How the final system is used, shown on the built prototype |
+| [`poster/`](poster/README.md) | The A2 conference poster and the copy behind it |
+| [`promotional/`](promotional/README.md) | Demo video and exhibition photographs |
 
-The narrative **Design Process Overview** is a [Wiki page](../../../wiki/Design-Process-Overview), not a file here. This folder holds the evidence it draws on.
+The narrative **Design Process Overview** is a
+[wiki page](https://github.com/CcYyYcC/DECO3500_Team3/wiki/Design-Process-Overview), not a
+file here. This folder holds the evidence it draws on.
+
+Hardware development — enclosure iterations, components, build record — is in
+[`/prototype/`](../prototype/README.md). Literature is in
+[`/research/literature/`](../research/literature/).
 
 ---
 
-## Guidance
-Use this folder for design artefacts and design rationale.
+## What belongs in this folder
 
-This folder should show how the team understood users, explored possible solutions, made design decisions, and improved the prototype over time.
+Not only finished work. The useful evidence is the material that shows how the design
+changed and why: early sketches, alternatives that were explored and dropped, feedback from
+users and tutors, before-and-after comparisons, and the reasoning behind the major
+decisions.
 
-## What to Include
+Design work held outside GitHub — Miro, Figma, Canva — should be linked here with a note
+saying what the link contains, who made it, and whether it is a draft or final. Board access
+is not guaranteed after the course, so anything that matters should also be exported to a
+file.
 
-- sketches
-- wireframes
-- mockups
-- user flows
-- interface designs
-- interaction designs
-- design iteration notes
-- design rationale
-- links to external design tools such as Figma, Miro, Canva, or similar platforms
+---
 
-## Design Evidence
-
-This folder should not only contain final polished designs. It should also show how the design changed over time and why changes were made.
-
-Useful evidence may include:
-
-- early sketches
-- alternative design options
-- feedback from users, mentors, or stakeholders
-- before-and-after design changes
-- explanations of major design decisions
-
-## External Design Tools
-
-If design work is stored outside GitHub, include clear links here.
-
-For each external link, briefly explain:
-
-- what the link contains
-- who contributed to it
-- how it relates to the project
-- whether it is an early draft, current design, or final version
+[← Repository home](../README.md)

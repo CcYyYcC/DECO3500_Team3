@@ -7,7 +7,7 @@
 **Edition:** English-only working version, with facilitator scripts and recording sheets  
 **Status:** Planned procedures. Complete the equipment and version checks before use.
 
-> **Edition note.** This document consolidates the Chinese and English sections of the supplied `Time_Tokens_Evaluation_Protocol_FIXED.docx`. It retains the original test conditions, questions, task IDs and evidence boundaries. Test B and the real-hour check are proposed additions; their presence in this protocol does not establish that they were completed. The companion [Evaluation Analysis](Time_Tokens_Evaluation02_Analysis_EN.md) reports only what is supported by the supplied P01/P02 transcripts.
+> **Edition note.** This document consolidates the Chinese and English sections of the supplied `Time_Tokens_Evaluation_Protocol_FIXED.docx`. It retains the original test conditions, questions, task IDs and evidence boundaries. Test B and the real-hour check are proposed additions; their presence in this protocol does not establish that they were completed. The companion [Evaluation Analysis](../results/Time_Tokens_Evaluation02_Analysis_EN.md) reports only what is supported by the supplied P01/P02 transcripts.
 
 | Test | Configuration and purpose |
 |---|---|

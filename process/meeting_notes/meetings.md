@@ -1,6 +1,6 @@
 # Meeting Records
 
-Internal team meetings. Ongoing stand-ups are logged on the [Wiki](../../../wiki/Team-Meetings).
+Internal team meetings. Ongoing stand-ups are logged on the [Wiki](https://github.com/CcYyYcC/DECO3500_Team3/wiki/Team-Meetings).
 
 ---
 

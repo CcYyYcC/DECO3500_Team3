@@ -1,21 +1,22 @@
 # Process
 
-Project process records: meetings, decisions, risks, and compliance.
+Project management and records: meetings, decisions, risks, and compliance.
 
-| File | What it holds |
+| | What it holds |
 |---|---|
-| `DECO3500_Project_Development_Notebook.pdf` | **Project Development Notebook** — the full four-stage process record from the original brief through to the built prototype. Its concept figures are extracted to [`/design/concepts/`](../design/concepts/README.md) |
-| [`meetings.md`](meetings.md) | Internal meeting records and individual contribution |
-| [`decisions.md`](decisions.md) | Decision records — what was decided and why |
-| [`risks.md`](risks.md) | Risk register |
-| [`external-resources.md`](external-resources.md) | External resources and **AI use disclosure** |
-| `Ethical_Disclaimer_Team3.pdf` | Completed Ethical Disclaimer canvas |
-| [`contribution-guide.md`](contribution-guide.md) | How to record contribution evidence |
-| [`evidence-guide.md`](evidence-guide.md) | What counts as evidence |
+| [`meeting_notes/`](meeting_notes/README.md) | Internal team meeting records, and how we meet |
+| [`decisions/`](decisions/README.md) | Decision records and the Ethical Disclaimer canvas |
+| [`risks_and_limitations.md`](risks_and_limitations.md) | Risk register and project limitations |
+| [`ai_use_declaration.md`](ai_use_declaration.md) | External resources and **AI use disclosure** |
+| `DECO3500_Project_Development_Notebook.pdf` | Full four-stage process record, from the original brief to the built prototype |
 
-**Stand-up records live on the [Wiki](../../../wiki/Team-Meetings)**, per the assignment brief — `meetings.md` here is the repo-side record of earlier team meetings.
+Concept figures extracted from the development notebook are in
+[`/design/initial_concepts/`](../design/initial_concepts/README.md).
 
-The written-up **Ethical Considerations** and **Design Process Overview** are also Wiki pages, not files here.
+Individual contribution and its evidence live in [`/team/`](../team/README.md).
+Stand-up records are on the
+[Team Meetings wiki page](https://github.com/CcYyYcC/DECO3500_Team3/wiki/Team-Meetings),
+per the assignment brief.
 
 ---
 

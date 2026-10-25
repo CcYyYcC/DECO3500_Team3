@@ -154,4 +154,4 @@
 
 ---
 
-[← Back to Interviews Home](../../../../README.md) | [Next Interview →](./yiyang-qin_02.md)
+[← Back to Interviews Home](../../README.md) | [Next Interview →](./yiyang-qin_02.md)
