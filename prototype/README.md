@@ -246,14 +246,6 @@ The completed exhibition arrangement is documented in **Figure 28**, which is a 
 
 *Figure 28. Final physical prototype of Time Tokens and Time Tower, showing the illuminated shared LED display and three Time Tokens in the exhibition arrangement.*
 
-Additional close-up evidence is still needed for the following details:
-
-[TO ADD] Close-up photograph of the Time Token internal assembly.
-
-[TO ADD] Photograph of the vibration-module rail and wiring detail.
-
-[TO ADD] Close-up photograph verifying the Token's fit within the Tower's top recess.
-
 ### 10.3  Main References and Purchase Records
 
 | Item | Record |
